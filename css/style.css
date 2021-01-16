@@ -1,0 +1,41 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+
+.nav-img{
+    width: 100px;
+}
+.panda-pic{
+    background-color: thistle;
+    border-radius: 10px;
+}
+
+.top-players{
+    width: 80px;
+    margin-right: 20px;
+}
+.blog-para {
+    margin-left: 14px;
+    margin-right: 57px;
+}
+.card-text{
+    text-align: center;
+}
+.border-none{
+    border: none;
+}
+.ratings, .filled, .unfilled {
+    padding: 9px;
+    
+    
+}
+.filled{
+    color: goldenrod;
+}
+unfilled{
+    color: white;
+}
+.course-duration {
+
+    margin-left: 36px;
+}
